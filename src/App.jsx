@@ -122,7 +122,7 @@ export default function BharatAI() {
     <div style={{
       display: "flex", height: "100vh", background: "#020617",
       fontFamily: "'Segoe UI', system-ui, sans-serif", color: "#e2e8f0",
-      overflow: "hidden"
+      overflow: "auto"
     }}>
       {/* Sidebar */}
       <div style={{
