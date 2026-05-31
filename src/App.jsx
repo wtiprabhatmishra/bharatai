@@ -1,4 +1,4 @@
-import React { useState, useRef, useEffect } from "react";
+import React, { useState, useRef, useEffect } from "react";
 
 const MODES = [
   { id: "chat", label: "💬 AI Chat", icon: "💬", desc: "Ask anything, get instant answers" },
